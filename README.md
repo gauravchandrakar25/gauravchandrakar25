@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gauravchandrakar25
+- 👋 Hi, I’m Gaurav Chandrakar, you can call me GC
 - 👀 I’m interested in Blockchain Technology
 - 🌱 I’m currently learning Solidity
 
